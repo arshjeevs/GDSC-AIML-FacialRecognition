@@ -9,7 +9,6 @@ so i started by downloading the fer2013 dataset - figuered out how to download t
 - so i added that also
 - added some dropout layers to prevent overfitting
 - finally softmax to get the probabilities of what the image represents
-- 
 
 ## **Model Architecture**
 The CNN model is designed with the following layers:
