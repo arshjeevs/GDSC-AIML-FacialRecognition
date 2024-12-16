@@ -23,4 +23,9 @@ The CNN model is designed with the following layers:
 
 so the performance matrix for the project will be added soon. I am GPU Poor please understand and also colab Freetier GPU sucks.
 
+- but i will just say what i got
+- i got around 80 - 90 accuracy on the model
+- i took a different stand to train the model, like instead of putting in epochs, i trained the model for 10 epochs again and again
+- what it did was it improved the accuracy at the end of each cell execution even more faster, so this helped me getting a good accuracy 
+
 i didnt do the productization - no timeeeee....
